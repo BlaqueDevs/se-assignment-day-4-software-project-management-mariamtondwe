@@ -105,7 +105,12 @@
 ##### 4. Facilitates Progress Tracking
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
-
+### Steps to Identify Core Issues
+#### 1. Audience Research. Conduct interviews, surveys, or feedback sessions with potential users to learn about their biggest challenges.Analyze common complaints or frustrations they have with current solutions or workflows.
+#### 2.Market Analysis. Study competitors' software to see what gaps exist in their offerings. Understanding what competitors miss or where they fall short can guide your solution.
+#### 3.
+#### 1.
+#### 1.
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
